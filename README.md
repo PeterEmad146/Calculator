@@ -11,4 +11,4 @@
 - **Exit Option**: Provide an option to exit the calculator.
 
 ### Skills:
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C Programming" height="50"/> <img src="https://static-00.iconduck.com/assets.00/clion-icon-512x512-tvyolucv.png" alt="CLion" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" height="50"/>
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C Programming" height="50"/> <img src="https://static-00.iconduck.com/assets.00/clion-icon-512x512-tvyolucv.png" alt="CLion" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="Windows Powershell" height="50"/>

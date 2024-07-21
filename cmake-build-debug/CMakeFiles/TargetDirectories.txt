@@ -1,0 +1,3 @@
+D:/Work/Coding Projects/calculator/cmake-build-debug/CMakeFiles/calculator.dir
+D:/Work/Coding Projects/calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Work/Coding Projects/calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
